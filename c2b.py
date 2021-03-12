@@ -45,5 +45,7 @@ def simulate_c2b_transaction():
 
 	print (response.text)
 
+	
+
 
 simulate_c2b_transaction()
